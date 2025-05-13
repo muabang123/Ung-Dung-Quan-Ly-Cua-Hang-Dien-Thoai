@@ -6,6 +6,8 @@
 - XAMPP (chạy Apache và MySQL)
 - Trình duyệt web để truy cập phpMyAdmin
 2. Cấu hình cơ sở dữ liệu
+- clone về máy bằng cách:
+      + Mở cmd và gõ git clone https://github.com/muabang123/Ung-Dung-Quan-Ly-Cua-Hang-Dien-Thoai.git
 - Mở XAMPP và khởi động Apache và MySQL
 - Truy cập http://localhost/phpmyadmin
 - Tạo cơ sở dữ liệu mới với tên: quanlibanhang
